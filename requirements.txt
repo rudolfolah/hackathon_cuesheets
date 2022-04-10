@@ -1,0 +1,5 @@
+boto3==1.21.36
+librosa==0.9.1
+ludwig[audio,serve,text,viz]==0.4.1
+pydub==0.25.1
+requests==2.27.1
